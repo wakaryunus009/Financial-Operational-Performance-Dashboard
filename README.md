@@ -10,6 +10,6 @@ This project focuses on analyzing financial and operational performance across d
 to identify cost inefficiencies and profitability trends.
 
 ## Files
-- Dataset/finance_operations_data.xlsx
+- finance_operations_data.xlsx
 - Finance_Operations_Dashboard.pbix (to be created in Power BI)
 - Dashboard_Screenshots/
